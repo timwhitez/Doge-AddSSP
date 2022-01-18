@@ -2,6 +2,7 @@
 Load ssp dll golang implementation
 
 ```
+Administrator/System Privilege
 Usage:
     .\Doge-AddSSP.exe D:\ssp.dll
     
