@@ -5,7 +5,7 @@ Load ssp dll golang implementation
 Usage:
     .\Doge-AddSSP.exe D:\ssp.dll
     
-    //must be full path
+    //must use full path
     
 ```
 
